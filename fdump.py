@@ -4,7 +4,7 @@ import configparser
 import sys
 import getopt
 
-__author__ = 'Joe Aranbayev <Joseph.Aranbayev@hdsupply.com>'
+__author__ = 'Joe Aranbayev <jaranbayev@gmail.com>'
 
 
 class ScanCounter:
