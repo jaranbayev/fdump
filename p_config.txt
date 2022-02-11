@@ -1,0 +1,5 @@
+[Severity Threshold]
+Criticals = 0
+Highs = 10
+Mediums = 1000
+Lows = 10000

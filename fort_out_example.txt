@@ -1,0 +1,65 @@
+[4318B166E346F78375FEAFC475F6014F : low : Dead Code : Unused Method : structural ]C:/Users/svc_appsec/Downloads/BookstoreDOTNET-master/ShoppingCart.cs(388)
+
+[F445CCA2EA5608055A7A55C99E0B7C79 : low : Dead Code : Unused Method : structural ]C:/Users/svc_appsec/Downloads/BookstoreDOTNET-master/ShoppingCart.cs(503)
+
+[BBA4021B45B201BAE83E870F45AA0EFB : low : Dead Code : Unused Method : structural ]C:/Users/svc_appsec/Downloads/BookstoreDOTNET-master/ShoppingCartRecord.aspx(62)
+
+[AB652623C80A3570A5487787885862F5 : low : Dead Code : Unused Method : structural ]C:/Users/svc_appsec/Downloads/BookstoreDOTNET-master/ShoppingCartRecord.aspx(66)
+
+[155037A3E81A803F7C315AE3A16BE954 : low : Poor Error Handling : Overly Broad Catch : structural ]C:/Users/svc_appsec/Downloads/BookstoreDOTNET-master/ShoppingCartRecord.cs(266)
+
+[3B845C9262D9685C6F83C048D5A9A19A : low : Poor Error Handling : Overly Broad Catch : structural ]C:/Users/svc_appsec/Downloads/BookstoreDOTNET-master/ShoppingCartRecord.cs(296)
+
+[8226DF7820C7B659C034212430CD5940 : low : ASP.NET Bad Practices : Leftover Debug Code : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/Program.cs(18)
+
+[05B6B2213CC0CCDC4D7B26071A8449CA : high : Insecure Randomness : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(136)
+
+[7FF2D1ED9361EEBCA0E1726F6AE3815C : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(344)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(344)]
+
+[2E80D41597960762B64A5082379CDB19 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(496)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(496)]
+
+[57C5D0414F38A0C3688E347F1DFB6B8A : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(998)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(998)]
+
+[57C5D0414F38A0C3688E347F1DFB6B8B : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(1003)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(1003)]
+
+[5B4A4AF0BA990487059187FFA7F80AC2 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(1359)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(1359)]
+
+[5B4A4AF0BA990487059187FFA7F80AC3 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(1364)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(1364)]
+
+[F0EB18CC41B4051DAD24949D0F35834F : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3858)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3858)]
+
+[F0EB18CC41B4051DAD24949D0F358350 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3863)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3863)]
+
+[F0EB18CC41B4051DAD24949D0F358351 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3868)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3868)]
+
+[F0EB18CC41B4051DAD24949D0F358352 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3873)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(3873)]
+
+[2B28EA01738DAE017CD4CB18B7503074 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4369)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4369)]
+
+[2B28EA01738DAE017CD4CB18B7503075 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4374)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4374)]
+
+[2B28EA01738DAE017CD4CB18B7503076 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4379)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4379)]
+
+[0CA7086B62B3522C18CB443EA424105F : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4922)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4922)]
+
+[0CA7086B62B3522C18CB443EA4241060 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4927)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(4927)]
+
+[681696C9B37B51561F195E21DF576D53 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5604)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5604)]
+
+[681696C9B37B51561F195E21DF576D54 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5609)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5609)]
+
+[681696C9B37B51561F195E21DF576D55 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5614)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5614)]
+
+[681696C9B37B51561F195E21DF576D56 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5619)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5619)]
+
+[681696C9B37B51561F195E21DF576D57 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5624)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5624)]
+
+[681696C9B37B51561F195E21DF576D58 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5629)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5629)]
+
+[681696C9B37B51561F195E21DF576D59 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5634)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5634)]
+
+[69117BD787EA026770B34B62FDA173F0 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5800)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5800)]
+
+[69117BD787EA026770B34B62FDA173F1 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5806)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5806)]
+
+[69117BD787EA026770B34B62FDA173F2 : critical : Key Management : Hardcoded Encryption Key : structural ]C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5811)Field: anonymous~object.key [C:/Users/svc_appsec/Downloads/VulnerableDotnetcoreApp-master/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js(5811)]
